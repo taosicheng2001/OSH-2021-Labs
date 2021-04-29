@@ -1,2 +1,3 @@
-# OSH-2021-Labs
-### PB19050991 陶思成
+## Student Name: Tao Si Cheng
+
+## Student Number: PB19050991

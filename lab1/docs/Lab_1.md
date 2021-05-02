@@ -145,8 +145,6 @@
   >
   >  7. AL阶段：若系统出现灾难性的错误，系统固件提供错误处理与灾难恢复机制
   >
-  >     
+  >     https://github.com/tusenchun/OSH-2021-Labs/blob/bce040ad654d2239194098b2c4f2910bfb84bf9d/img-folder/1.png
   >
-  >![F765F8B43B8F706E5A515B4E35457250](/home/sora/Pictures/F765F8B43B8F706E5A515B4E35457250.png)
-  >
-  >![2021-05-02_11-06](/home/sora/Pictures/2021-05-02_11-06.png)
+  >https://github.com/tusenchun/OSH-2021-Labs/blob/bce040ad654d2239194098b2c4f2910bfb84bf9d/img-folder/2.png
